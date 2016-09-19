@@ -1,0 +1,24 @@
+{
+  "name": "barcode-pdfkit",
+  "version": "1.0.0",
+  "description": "Create signage with barcode in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiyanxie/PDFkit-Barcode.git"
+  },
+  "keywords": [
+    "Barcode",
+    "PDFkit",
+    "PDF"
+  ],
+  "author": "Zhiyan (Peter)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhiyanxie/PDFkit-Barcode/issues"
+  },
+  "homepage": "https://github.com/zhiyanxie/PDFkit-Barcode#readme"
+}
